@@ -100,6 +100,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 * Termux
 * Parrot OS
 * OSX - Monterey v.12.0.1
+* OSX - Sonoma v.14.3.1 
 
 ## Installation
 
